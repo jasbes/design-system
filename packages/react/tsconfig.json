@@ -2,6 +2,7 @@
   "extends": "@ignite-ui/ts-config/react.json",
   "include": ["src"],
   "compilerOptions": {
+    "baseUrl": ".",
     "paths": {
       "@styles": ["src/styles/index"]
     }
