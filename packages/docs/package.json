@@ -17,8 +17,9 @@
     "@storybook/blocks": "^7.0.23",
     "@storybook/react": "^7.0.23",
     "@storybook/react-vite": "^7.0.23",
-    "@storybook/testing-library": "^0.0.14-next.2",
+    "@storybook/testing-library": "^0.2.0",
     "@vitejs/plugin-react": "^4.0.1",
+    "eslint-plugin-storybook": "^0.6.12",
     "prop-types": "^15.8.1",
     "storybook": "^7.0.23",
     "vite": "^4.3.9"
@@ -26,6 +27,7 @@
   "dependencies": {
     "@ignite-ui/eslint-config": "*",
     "@ignite-ui/react": "*",
+    "@ignite-ui/ts-config": "*",
     "@ignite-ui/tokens": "*",
     "@storybook/addons": "^7.0.23",
     "@storybook/manager-api": "^7.0.23",
